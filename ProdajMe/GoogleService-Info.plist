@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>223281288299-5lr7kgk40f2iln8qmi5oecjdgaq5qokg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.223281288299-5lr7kgk40f2iln8qmi5oecjdgaq5qokg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC86hwL2fVsUYyKIqd11ztNrs08SQvA2m8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>223281288299</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.frane.ProdajMe</string>
+	<key>PROJECT_ID</key>
+	<string>prodajme-87064</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prodajme-87064.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:223281288299:ios:61d80db55a55ff18294d2e</string>
+</dict>
+</plist>
